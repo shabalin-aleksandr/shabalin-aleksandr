@@ -1,46 +1,105 @@
-### Hi, I'm Aleksandr 👋
+# Hi, I'm Aleksandr 👋
 
-I'm a passionate and driven backend software engineer, excited to dive into the dynamic world of information technology. As a young professional, I have an insatiable curiosity and a strong desire to learn, especially when it comes to new technologies.
+I'm a **Backend Software Engineer** focused on building reliable APIs, backend services, authentication systems, and third-party integrations.
 
- <p align='center'>
-  📫  How to reach me 👇
+My primary stack is **TypeScript, NestJS, Node.js, and PostgreSQL**. I also work with **Java and Spring Boot** and enjoy designing backend systems with a strong focus on clean architecture, security, and maintainability.
+
+I currently work mainly with backend APIs, OAuth 2.0 / JWT authentication, PostgreSQL, external integrations, Docker, and distributed application architecture.
+
+<p align="center">
+  <a href="mailto:dev.aleksandr2000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shabalin-aleksandr/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-<p align='center'>
-   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dev.aleksandr2000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shabalin-aleksandr/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
 
+---
 
-## 🛠 Technical Stack
-*   Java
-*   PostgreSQL
-*   Spring Boot, Spring Security, Spring Data JPA, JDBC, Hibernate
-*   Maven, Docker, JWT, REST API
-*   Git
+## 🛠 Tech Stack
 
-## 👀 A little bit more about me
-* 💬 Created a [Telegram bot](https://github.com/Doberman786/DeepLTranslatorTelegramBot) to integrate a translator directly into Telegram.
-* 👯 I'm currently working with [AleksRULET](https://github.com/AleksRULET) on the group project.
-* ⌨️ Sometimes I solve problems on [LeetCode](https://leetcode.com/Doberman786/) improving my algorithms skiils.
-* 🏢 I am currently living in the Czech Republic.
-* 👨‍🎓 Getting a Bachelor's Degree
+### Backend
+- TypeScript
+- Node.js
+- NestJS
+- Java
+- Spring Boot
 
+### APIs & Security
+- REST APIs
+- OAuth 2.0
+- JWT
+- Authentication & Authorization
+- API Integrations
+- Webhooks
 
+### Databases
+- PostgreSQL
+- SQL
+- Kysely
+- Sequelize
+- JPA / Hibernate
+- Flyway
 
-<!--
-**Doberman786/Doberman786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Infrastructure & Tools
+- Docker
+- Docker Compose
+- Git
+- Swagger / OpenAPI
+- CI/CD
+- Nx
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Work On
+
+I enjoy solving backend engineering problems such as:
+
+- Designing and implementing REST APIs
+- Building authentication and authorization flows
+- Integrating third-party APIs and services
+- Working with OAuth 2.0, JWT, and access scopes
+- Designing PostgreSQL schemas and database migrations
+- Debugging and improving existing backend systems
+- Building containerized development environments
+
+---
+
+## 🚀 Selected Projects
+
+### OAuth 2.0 Authorization Server
+A backend authorization service built with **Java, Spring Boot, PostgreSQL, Flyway, and Docker**.
+
+The project focuses on OAuth 2.0 authorization flows, client management, users, roles, token handling, and secure authentication architecture.
+
+**Tech:** Java · Spring Boot · OAuth 2.0 · PostgreSQL · Flyway · Docker
+
+---
+
+### Backend API & Integrations
+Backend services built with **TypeScript and NestJS**, including REST APIs, PostgreSQL persistence, authentication, authorization, external integrations, and API documentation.
+
+**Tech:** TypeScript · NestJS · PostgreSQL · REST API · JWT · Docker · Swagger
+
+> Some of my commercial work is hosted in private repositories and cannot be published publicly.
+
+---
+
+## 🧠 Currently Improving
+
+- System design
+- Backend architecture
+- OAuth 2.0 / OpenID Connect
+- Distributed systems
+- Algorithms and data structures
+
+---
+
+## 📫 Contact
+
+If you'd like to discuss backend development, APIs, integrations, or collaboration:
+
+- [LinkedIn](https://www.linkedin.com/in/shabalin-aleksandr/)
+- [Email](mailto:dev.aleksandr2000@gmail.com)
